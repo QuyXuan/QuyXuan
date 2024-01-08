@@ -5,7 +5,7 @@ Web And Mobile Developer
 ------------------------
 
 * 🌍  I'm based in Vietnam
-* 🖥️  See my portfolio at [My Portfolio](https://quyxuan.github.io/mike-portfolio/)
+* 🖥️  See my portfolio at [My Portfolio](https://quyxuan-portfolio.netlify.app/)
 * ✉️  You can contact me at [maitrinhxuanquy@gmail.com](mailto:maitrinhxuanquy@gmail.com)
 
 ### Skills
